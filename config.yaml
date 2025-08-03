@@ -1,4 +1,4 @@
-# Assignment #3 Configuration
+#  Configuration
 data_loading:
   sample_size: 1000
   random_state: 42

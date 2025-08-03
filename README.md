@@ -1,7 +1,7 @@
-# Assignment #3: Hands-On Data Prep
+# : Hands-On Data Prep
 
 ## Overview
-This assignment demonstrates comprehensive data preparation using a financial dataset with pandas. The implementation follows professional coding practices with configuration management, strong typing, and modular design.
+This demonstrates comprehensive data preparation using a financial dataset with pandas. The implementation follows professional coding practices with configuration management, strong typing, and modular design.
 
 ## Requirements
 Install dependencies:
@@ -15,7 +15,7 @@ Run the complete data preparation pipeline:
 python main.py
 ```
 
-## Assignment Components
+## Components
 
 ### 1. Data Exploration (2 points)
 - **File:** `data_explorer.py`

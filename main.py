@@ -1,5 +1,5 @@
 """
-Assignment #3: Hands-On Data Prep
+Data Prep:
 Use a real dataset to perform data cleansing and feature engineering using Pandas
 """
 
@@ -12,7 +12,7 @@ from dimensionality_reducer import DimensionalityReducer
 
 
 def main():
-    """Execute Assignment #3: Data Preparation Pipeline"""
+    """Execute Data Preparation Pipeline"""
     
     
     # Load configuration
@@ -47,7 +47,7 @@ def main():
     
     # Summary
     print("\n" + "=" * 50)
-    print("ASSIGNMENT #3 COMPLETION SUMMARY")
+    print("COMPLETION SUMMARY")
     print("=" * 50)
     print(f"COMPLETED Data Exploration: Analyzed {dataset.data.shape[0]} records")
     print(f"COMPLETED Data Cleansing: Handled missing values, duplicates, outliers")
