@@ -1,5 +1,5 @@
 """
-Data Explorer for Assignment #3 - Data Exploration (2 points)
+Data Explorer  - Data Exploration (2 points)
 """
 
 import pandas as pd

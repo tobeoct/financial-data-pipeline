@@ -1,5 +1,5 @@
 """
-Data types and models for Assignment #3
+Data types and models 
 """
 
 from typing import Dict, List, Optional, Tuple, Any

@@ -1,5 +1,5 @@
 """
-Dimensionality Reducer for Assignment #3 - Code Implementation Enhancement
+Dimensionality Reducer  - Code Implementation Enhancement
 """
 
 import pandas as pd

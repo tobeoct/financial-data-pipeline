@@ -1,5 +1,5 @@
 """
-Configuration loader for Assignment #3
+Configuration loader 
 """
 
 import yaml
