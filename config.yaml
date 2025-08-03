@@ -1,0 +1,19 @@
+# Assignment #3 Configuration
+data_loading:
+  sample_size: 1000
+  random_state: 42
+  missing_value_rate: 0.15
+  duplicate_rate: 0.05
+  outlier_rate: 0.03
+
+data_cleaning:
+  outlier_threshold: 3.0
+  imputation_strategy: "median"
+
+feature_engineering:
+  polynomial_degree: 2
+  n_bins: 5
+
+dimensionality_reduction:
+  n_features: 15
+  pca_variance: 0.95
