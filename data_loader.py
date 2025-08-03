@@ -11,7 +11,7 @@ from data_types import Dataset, Config
 
 
 class DataLoader:
-    """Loads financial dataset for data preparation assignment"""
+    """Loads financial dataset for data preparation"""
     
     def __init__(self, config: Config):
         self.config = config

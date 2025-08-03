@@ -1,5 +1,5 @@
 """
-Data Explorer  - Data Exploration (2 points)
+Data Explorer  - Data Exploration
 """
 
 import pandas as pd

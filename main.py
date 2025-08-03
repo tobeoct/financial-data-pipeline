@@ -30,13 +30,13 @@ def main():
     dataset = data_loader.load_data()
     print(f"Loaded dataset with {dataset.data.shape[0]} records and {dataset.data.shape[1]} features")
     
-    # 2. Data Exploration (2 points)
+    # 2. Data Exploration
     exploration_results = data_explorer.explore_dataset(dataset)
     
-    # 3. Data Cleansing (3 points)
+    # 3. Data Cleansing 
     clean_dataset = data_cleaner.clean_data(dataset)
     
-    # 4. Feature Engineering (3 points)
+    # 4. Feature Engineering 
     engineered_dataset = feature_engineer.engineer_features(clean_dataset)
     
     # 5. Dimensionality Reduction (Code Implementation enhancement)

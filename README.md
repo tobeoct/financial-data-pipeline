@@ -17,25 +17,25 @@ python main.py
 
 ## Components
 
-### 1. Data Exploration (2 points)
+### 1. Data Exploration 
 - **File:** `data_explorer.py`
 - Thorough analysis of dataset characteristics, patterns, and quality
 - Statistical summaries, missing value analysis, outlier detection
 - Correlation analysis and target variable distribution
 
-### 2. Data Cleansing (3 points)
+### 2. Data Cleansing 
 - **File:** `data_cleaner.py`
 - Effective handling of missing values, duplicates, and inconsistencies
 - Advanced imputation strategies using sector-based grouping
 - Outlier detection and handling using statistical methods
 
-### 3. Feature Engineering (3 points)
+### 3. Feature Engineering
 - **File:** `feature_engineer.py`
 - Creative and meaningful feature creation and transformation
 - Financial ratios, temporal features, polynomial transformations
 - Categorical binning, sector-based features, composite scores
 
-### 4. Code Implementation (2 points)
+### 4. Code Implementation
 - **File:** `dimensionality_reducer.py`, configuration system
 - Proper use of Pandas with efficient and readable code
 - Strong typing, configuration management, modular design

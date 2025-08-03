@@ -1,5 +1,5 @@
 """
-Data Cleaner  - Data Cleansing (3 points)
+Data Cleaner  - Data Cleansing
 """
 
 import pandas as pd
